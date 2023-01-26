@@ -26,18 +26,13 @@ margin-left: 50px;
 }
 
 #contactus4 {
+margin: 0px;
 
-margin: 50px;
 font-size: 20px;
-margin-left: 700px;
-width: 1000px;
-}
-
-#uscontact4 {
-
-margin-top: 200px;
 
 }
+
+
 
 #listing1 {
 
@@ -188,6 +183,11 @@ height: 600px;
   margin-left: -75px;
 }
 
+#line {
+width: 1000px;
+align: center;
+margin-left: 300px;
+}
 
 #heart-plate {
   background-position: center;
